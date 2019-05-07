@@ -52,6 +52,7 @@
         position:fixed;
         top:30px;
         z-index: 11;
+        right: 0;
     }
     .facebook {
         line-height: 39px;

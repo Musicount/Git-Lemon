@@ -105,6 +105,7 @@ footer{
     position:fixed;
     right:0;
     top:265px;
+    z-index: 11;
 }
 .br{
     margin: -15px 10px 0 10px;
